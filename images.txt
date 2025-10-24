@@ -6,3 +6,9 @@ mongo:7.0.0
 nginx
 bladex/sentinel-dashboard:latest
 minio/minio:RELEASE.2025-04-22T22-12-26Z
+apache/seata-server:2.1.0
+mongo:4.2.5
+openzipkin/zipkin
+kibana:8.5.0
+logstash:8.5.0
+elasticsearch:8.5.0
